@@ -2,4 +2,4 @@
 
 ### Dans ce Git, vous retrouverez toutes nos commandes utlisées pour l'installation des logiciels de cette SAE, notament srsRAN et Open5GS
 
-## Vous pouvez aussi consulter la rubrique Project dans laquelle il y a les actions réalisées de chacun.
+# Vous pouvez aussi consulter la rubrique Project dans laquelle il y a les actions réalisées de chacun.
